@@ -1,0 +1,15 @@
+db_file: "bot.db"
+
+bot_url: "https://t.me/pocketgolang_bot"
+
+messages:
+  responses:
+    start: "Привет! Дать права на добавление можешь здесь:\n%s"
+    already_authorized: "Вы уже авторизованы!"
+    saves_successfully: "Ссылка сохранена!"
+  errors:
+    default: "Отправьте сюда ссылку."
+    invalid_url: "Ссылка невалидна!"
+    unauthorized: "Вы не авторизованы!"
+    unknown_command: "Неизвестная команда!"
+    unable_to_save: "Не удалось сохранить ссылку. Попробуйте позже."
