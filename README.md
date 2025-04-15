@@ -4,5 +4,4 @@
 
 To work with a Pocket API, use [go-pocket-sdk](https://github.com/zhashkevych/go-pocket-sdk)
 
-**P.S. It is written according to an open lesson on [YouTube Maksim Zhashkevych](https://www.youtube.com/@MaksimZhashkevych)  
-The author - https://github.com/zhashkevych**
+
